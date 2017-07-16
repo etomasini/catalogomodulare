@@ -1,0 +1,7 @@
+= Primo articolo
+
+Articolo ideale da includere nel catalogo.
+
+== Descrizione
+
+Perfetto in ogni circostanza.
