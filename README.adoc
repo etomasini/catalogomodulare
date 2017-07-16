@@ -4,4 +4,4 @@
 
 Catalogo modulare 
 
-include::lib/articolo.adoc[]
+include::lib/articolo.adoc[leveloffset=+1]
