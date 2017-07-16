@@ -1,3 +1,6 @@
 = catalogomodulare
+:doctype: book
 
 Catalogo modulare 
+
+include::lib/articolo.adoc[]
