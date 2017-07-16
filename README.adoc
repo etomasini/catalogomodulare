@@ -4,4 +4,4 @@
 
 Catalogo modulare 
 
-include::lib/articolo.adoc[leveloffset=+1]
+include::https://github.com/etomasini/catalogomodulare/blob/master/lib/articolo.adoc[leveloffset=+1]
