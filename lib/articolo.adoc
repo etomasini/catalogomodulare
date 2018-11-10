@@ -1,4 +1,5 @@
 = Primo articolo
+:page-layout: false
 
 Articolo ideale da includere nel catalogo.
 
