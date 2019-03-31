@@ -1,8 +1,10 @@
 = catalogomodulare
 :page-layout: false
 :doctype: book
-:allow-uri-read: 
+:allow-uri-read:
 
-Catalogo modulare 
+Catalogo modulare
 
+// tag include[]
 include::lib/articolo.adoc[leveloffset=+1]
+// end-tag include[]
