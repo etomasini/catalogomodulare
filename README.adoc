@@ -6,5 +6,5 @@
 Catalogo modulare 
 
 ifndef::env-github,backend-html5[]
-  include::lib/articolo.adoc[leveloffset=+1]
+include::lib/articolo.adoc[leveloffset=+1]
 endif::[]
