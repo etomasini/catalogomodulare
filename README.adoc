@@ -1,4 +1,4 @@
-= catalogomodulare
+= Catalogo Modulare
 :page-layout: false
 :doctype: book
 :allow-uri-read:
